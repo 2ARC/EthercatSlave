@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EEN60002020)(type KiCad)(uri ${KIPRJMOD}/share/kicad/modules/EEN60002020.pretty)(options "")(descr ""))
+)

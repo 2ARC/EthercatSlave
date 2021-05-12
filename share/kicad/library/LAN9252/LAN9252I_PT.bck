@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LAN9252I_PT
+D Ethernet Slave Controller 100Mbps TQFP64 Microchip LAN9252I/PT, Ethernet Controller, 100MBps, Host Bus, 3.3 (Max.) V, 64-Pin TQFP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001909A.pdf
+$ENDCMP
+#
+$CMP TPS560430YFQDBVRQ1
+D Switching Voltage Regulators NIXON AUTO DC-DC CONVERTER
+F https://www.ti.com/lit/gpn/TPS560430-Q1
+$ENDCMP
+#
+#End Doc Library

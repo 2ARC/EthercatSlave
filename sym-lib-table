@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name LAN9252I_PT)(type Legacy)(uri ${KIPRJMOD}/share/kicad/library/LAN9252/LAN9252I_PT.lib)(options "")(descr ""))
+  (lib (name EEN60002020)(type Legacy)(uri ${KIPRJMOD}/EEN60002020.lib)(options "")(descr ""))
+  (lib (name EEN60002020-rescue)(type Legacy)(uri ${KIPRJMOD}/EEN60002020-rescue.lib)(options "")(descr ""))
+)

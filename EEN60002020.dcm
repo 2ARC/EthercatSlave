@@ -1,0 +1,167 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3.3V
+D Power symbol creates a global label with name "+3.3VA"
+K power-flag
+$ENDCMP
+#
+$CMP +5V
+D Power symbol creates a global label with name "+5V"
+K power-flag
+$ENDCMP
+#
+$CMP 06035A100JAT4A
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol
+F https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf
+$ENDCMP
+#
+$CMP 06035A221JAT2A
+D 0603 C0G ceramic capacitor,220pF 50V AVX 0603 Standard 220pF Ceramic Multilayer Capacitor, 50 V dc, +125degC, C0G Dielectric,  /-5% SMD
+F http://datasheets.avx.com/C0GNP0-Dielectric.pdf
+$ENDCMP
+#
+$CMP 1526169
+D AMPHENOL LTW - M8S-04PFFR-SF8001 - SENSOR CONNECTOR, M8, RCPT, 4POS
+F http://www.amphenolltw.com/2012download/2D%20PDF/03_M%20Series%20Sensor%20Connectors/M8S-XXPFFR-SF8001.pdf
+$ENDCMP
+#
+$CMP 553-0212-200F
+D 3mm dual LED LC R/G,553-0212-200 Dialight 553-0212-200F, Green & Red Right Angle PCB LED Indicator, 2 LEDs, Through Hole 2.2 V
+F http://uk.rs-online.com/web/p/products/5461012
+$ENDCMP
+#
+$CMP 61200621721
+D WR-BHD 2.54mm Male Angled Box Header 6p Wurth Elektronik 6120 Series, 2.54mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 3A
+F http://uk.rs-online.com/web/p/products/8236468
+$ENDCMP
+#
+$CMP 90130-3106
+D Molex C-GRID III Series, Series Number 90130, 2.54mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 3A
+F http://www.molex.com/webdocs/datasheets/pdf/en-us//0901303106_PCB_HEADERS.pdf
+$ENDCMP
+#
+$CMP 9B-25.000MBBK-B
+D Crystal 25MHz +/-50ppm (Tol) +/-50ppm (Stability) 20pF FUND 30Ohm 2-Pin DIP HC-49/S Thru-Hole Bulk
+F https://www.mouser.com/datasheet/2/417/9b-14516.pdf
+$ENDCMP
+#
+$CMP AT24C16D-SSHM-T
+D 1.7-3.6V, 1MHZ, IND TMP, 8-SOI
+F https://www.mouser.com/datasheet/2/268/20005858A-1398093.pdf
+$ENDCMP
+#
+$CMP B160-13-F
+D Schottky Diode 1A 60V 0.7Vf SMA Diodes Inc B160-13-F, SMT Schottky Diode, 60V 1A, 2-Pin DO-214AC
+$ENDCMP
+#
+$CMP BLM18PG330SN1D
+D BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85
+F https://www.murata.com/en-us/products/productdetail?partno=BLM18PG330SN1%23
+$ENDCMP
+#
+$CMP BLM21PG331SH1D
+D BLM21_H1D Series EMI Suppression Filter 330+/-25% at 100MHz 1.5A @85
+F https://www.murata.com/en-us/products/productdetail?partno=BLM21PG331SH1%23
+$ENDCMP
+#
+$CMP C0603C105K9RAC7411
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7R 0603 0.1
+F https://componentsearchengine.com/Datasheets/1/C0603C105K9RAC7411.pdf
+$ENDCMP
+#
+$CMP C1206C102KGRACTU
+D Capacitor Ceramic X7R 1206 2000V 1nF KEMET 1nF Multilayer Ceramic Capacitor (MLCC) 2 kV +/-10% X7R dielectric C SMD max op. temp. +125C
+F http://docs-emea.rs-online.com/webdocs/1528/0900766b81528e81.pdf
+$ENDCMP
+#
+$CMP CRCW060312K1FKEA
+D Vishay CRCW Series Thick Film Surface Mount Resistor 0603 Case 12.1k +/-1% 0.1W +/-100ppm/C
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+$CMP ERA-3AED222V
+D Thin Film Resistors - SMD 0603 2200ohms 25ppm 0.5% AEC-Q200
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-3EKF4701V
+D RESISTOR, 0603 4.7 kOhm +/-1 % 0.1 W
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf
+$ENDCMP
+#
+$CMP ESK225M050AC3KA
+D Aluminum Electrolytic Capacitors - Radial Leaded 50V 2.2uF 85C 2k Hour Radial
+F https://content.kemet.com/datasheets/KEM_A4004_ESK.pdf
+$ENDCMP
+#
+$CMP GRM1885C1H240JA01D
+D Murata 0603 GRM 24pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5% SMD
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM188R72A104KA35D
+D Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP MCT06030C4999FP500
+D Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto
+F http://www.vishay.com/docs/28705/mcx0x0xpro.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0775RL
+D RESISTOR, 0603 75 Ohms +/-1% 1/10 W
+F http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf
+$ENDCMP
+#
+$CMP RC0603JR-070RL
+D YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603
+F http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf
+$ENDCMP
+#
+$CMP RC0603JR-072K2L
+D RESISTOR, 0603 2.2K Ohms +/-5% 1/10 W
+F http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf
+$ENDCMP
+#
+$CMP RC0603JR-1310KL
+D Thick Film Resistors - SMD 10K OHM 5%
+F http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf
+$ENDCMP
+#
+$CMP SM13072APEL
+D BOURNS - SM13072APEL - TRANSFORMER, AEC-Q200, IEEE802.3, 350UH
+F https://componentsearchengine.com/Datasheets/1/SM13072APEL.pdf
+$ENDCMP
+#
+$CMP T4040034041-000
+D TE CONNECTIVITY - T4040034041-000 - SENSOR CONNECTOR, M8, PLUG, 4POS, PANEL
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FT40400340X1000%7FA%7Fpdf%7FEnglish%7FENG_CD_T40400340X1000_A.pdf%7FT4040034041-000
+$ENDCMP
+#
+$CMP T4041037041-000
+D TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL
+F https://componentsearchengine.com/Datasheets/1/T4041037041-000.pdf
+$ENDCMP
+#
+$CMP TNPW06031K00BEEN
+D RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W
+F http://componentsearchengine.com/Datasheets/1/TNPW06031K00BEEN.pdf
+$ENDCMP
+#
+$CMP TPS560430YFQDBVRQ1
+D Switching Voltage Regulators NIXON AUTO DC-DC CONVERTER
+F https://www.ti.com/lit/gpn/TPS560430-Q1
+$ENDCMP
+#
+$CMP VE-100M1CTR-0405
+D Aluminum Electrolytic Capacitors - SMD 16 Volts 10uF 20% 4x5.3
+F http://www.lelon.com.tw/en/product_content.php?id=2801
+$ENDCMP
+#
+$CMP VLS252012HBU-6R8M
+D TDK VLS-HBU Series Type 2520 Shielded Wire-wound SMD Inductor with a Metallic Magnetic Core, 6.8 uH +/-20% 970mA Idc
+F http://uk.rs-online.com/web/p/products/1346194
+$ENDCMP
+#
+#End Doc Library

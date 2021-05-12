@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 1526169
+#
+DEF 1526169 J 0 30 Y Y 1 F N
+F0 "J" 850 500 50 H V L CNN
+F1 "1526169" 850 400 50 H V L CNN
+F2 "1526169" 850 300 50 H I L CNN
+F3 "https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1526169&library=usen&pdfmode=direct&pdflanguage=en" 850 200 50 H I L CNN
+F4 "Circular Metric Connectors Sensor/ACTR,4-pos. flush-type socket M8" 850 100 50 H I L CNN "Description"
+F5 "16" 850 0 50 H I L CNN "Height"
+F6 "Phoenix Contact" 850 -100 50 H I L CNN "Manufacturer_Name"
+F7 "1526169" 850 -200 50 H I L CNN "Manufacturer_Part_Number"
+F8 "1526169" 850 -300 50 H I L CNN "Arrow Part Number"
+F9 "https://www.arrow.com/en/products/1526169/phoenix-contact" 850 -400 50 H I L CNN "Arrow Price/Stock"
+F10 "651-1526169" 850 -500 50 H I L CNN "Mouser Part Number"
+F11 "https://br.mouser.com/ProductDetail/Phoenix-Contact/1526169?qs=Oehxi%2FWkeHip9CnkHAyc0w%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 300 800 300 800 -300 200 -300 200 300 N
+X 1 1 400 -500 200 U 50 50 0 0 P
+X 2 2 500 -500 200 U 50 50 0 0 P
+X 3 3 400 500 200 D 50 50 0 0 P
+X 4 4 500 500 200 D 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

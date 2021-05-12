@@ -1,0 +1,2649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Program Files\KiCad\projects\EEN60002020\EEN60002020.sch</source>
+    <date>09/07/2020 14:11:28</date>
+    <tool>Eeschema (5.1.5)-3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Escravo Ethercat Nacional</title>
+        <company>ECT</company>
+        <rev>1.0</rev>
+        <date/>
+        <source>EEN60002020.sch</source>
+        <comment number="1" value="SPM/DETRAT/GMAN/CLAB/SUME"/>
+        <comment number="2" value="(11)4313-8936"/>
+        <comment number="3" value="MARCODEOLI@correios.com.br"/>
+        <comment number="4" value="Marco Antonio de Oliveira"/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R12">
+      <value>0603 12.1K</value>
+      <footprint>EEN60002020:RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/20035/dcrcwe3.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CRCW060312K1FKEA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/crcw060312k1fkea/vishay</field>
+        <field name="Description">Vishay CRCW Series Thick Film Surface Mount Resistor 0603 Case 12.1k +/-1% 0.1W +/-100ppm/C</field>
+        <field name="Height">0.5</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">CRCW060312K1FKEA</field>
+        <field name="Mouser Part Number">71-CRCW0603-12.1K-E3</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW0603-12.1K-E3</field>
+      </fields>
+      <libsource lib="EEN60002020" part="CRCW060312K1FKEA" description="Vishay CRCW Series Thick Film Surface Mount Resistor 0603 Case 12.1k +/-1% 0.1W +/-100ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F02C71B</tstamp>
+    </comp>
+    <comp ref="T1">
+      <value>SMD 1:1</value>
+      <footprint>Transformer_SMD:Transformer_Ethernet_Bourns_PT61017PEL</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/SM13072APEL.pdf</datasheet>
+      <fields>
+        <field name="Description">BOURNS - SM13072APEL - TRANSFORMER, AEC-Q200, IEEE802.3, 350UH</field>
+        <field name="Height">5.9</field>
+        <field name="Manufacturer_Part_Number">SM13072APEL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-SM13072APEL</field>
+        <field name="Mouser_Part_Number">652-SM13072APEL</field>
+        <field name="Vendor">Bourns</field>
+      </fields>
+      <libsource lib="EEN60002020" part="SM13072APEL" description="BOURNS - SM13072APEL - TRANSFORMER, AEC-Q200, IEEE802.3, 350UH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF380FA</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>0603 75R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">RC0603FR-0775RL</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rc0603fr-0775rl/yageo</field>
+        <field name="Description">RESISTOR, 0603 75 Ohms +/-1% 1/10 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603FR-0775RL</field>
+        <field name="Mouser Part Number">603-RC0603FR-0775RL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603FR-0775RL?qs=NEN%2FsE%2FLsvOyCMLfQoUEYg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603FR-0775RL" description="RESISTOR, 0603 75 Ohms +/-1% 1/10 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF7753C</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>0603 75R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">RC0603FR-0775RL</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rc0603fr-0775rl/yageo</field>
+        <field name="Description">RESISTOR, 0603 75 Ohms +/-1% 1/10 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603FR-0775RL</field>
+        <field name="Mouser Part Number">603-RC0603FR-0775RL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603FR-0775RL?qs=NEN%2FsE%2FLsvOyCMLfQoUEYg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603FR-0775RL" description="RESISTOR, 0603 75 Ohms +/-1% 1/10 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF7A05E</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF7C04C</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>1206 1nF</value>
+      <footprint>CAPC3216X135N</footprint>
+      <datasheet>http://docs-emea.rs-online.com/webdocs/1528/0900766b81528e81.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C1206C102KGRACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c1206c102kgractu/kemet-corporation</field>
+        <field name="Description">Capacitor Ceramic X7R 1206 2000V 1nF KEMET 1nF Multilayer Ceramic Capacitor (MLCC) 2 kV +/-10% X7R dielectric C SMD max op. temp. +125C</field>
+        <field name="Height">1.35</field>
+        <field name="Manufacturer_Name">Kemet</field>
+        <field name="Manufacturer_Part_Number">C1206C102KGRACTU</field>
+        <field name="Mouser Part Number">80-C1206C102KGR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C1206C102KGRACTU?qs=WyvL69DJJa9tcDzmkCOQcQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="C1206C102KGRACTU" description="Capacitor Ceramic X7R 1206 2000V 1nF KEMET 1nF Multilayer Ceramic Capacitor (MLCC) 2 kV +/-10% X7R dielectric C SMD max op. temp. +125C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF903C7</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>0603 0R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-070RL</field>
+        <field name="Mouser Part Number">603-RC0603JR-070RL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-070RL" description="YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF5557D</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>0603 49.9R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F008ED3</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>0603 49.9R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F010258</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>0603 49.9R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F011E6E</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>0603 49.9R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0109CB</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>0603 10pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A100JAT4A" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F09BE56</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>0603 10pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A100JAT4A" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0B8CE2</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>0603 10pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A100JAT4A" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0B92D1</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>0603 10pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A100JAT4A" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0B97CE</tstamp>
+    </comp>
+    <comp ref="T2">
+      <value>SMD 1:1</value>
+      <footprint>Transformer_SMD:Transformer_Ethernet_Bourns_PT61017PEL</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/SM13072APEL.pdf</datasheet>
+      <fields>
+        <field name="Description">BOURNS - SM13072APEL - TRANSFORMER, AEC-Q200, IEEE802.3, 350UH</field>
+        <field name="Height">5.9</field>
+        <field name="Manufacturer_Part_Number">SM13072APEL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-SM13072APEL</field>
+        <field name="Mouser_Part_Number">652-SM13072APEL</field>
+        <field name="Vendor">Bourns</field>
+      </fields>
+      <libsource lib="EEN60002020" part="SM13072APEL" description="BOURNS - SM13072APEL - TRANSFORMER, AEC-Q200, IEEE802.3, 350UH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA79E5</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>0603 75R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">RC0603FR-0775RL</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rc0603fr-0775rl/yageo</field>
+        <field name="Description">RESISTOR, 0603 75 Ohms +/-1% 1/10 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603FR-0775RL</field>
+        <field name="Mouser Part Number">603-RC0603FR-0775RL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603FR-0775RL?qs=NEN%2FsE%2FLsvOyCMLfQoUEYg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603FR-0775RL" description="RESISTOR, 0603 75 Ohms +/-1% 1/10 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA79F7</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>0603 75R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">RC0603FR-0775RL</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rc0603fr-0775rl/yageo</field>
+        <field name="Description">RESISTOR, 0603 75 Ohms +/-1% 1/10 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603FR-0775RL</field>
+        <field name="Mouser Part Number">603-RC0603FR-0775RL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603FR-0775RL?qs=NEN%2FsE%2FLsvOyCMLfQoUEYg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603FR-0775RL" description="RESISTOR, 0603 75 Ohms +/-1% 1/10 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A05</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>0603 0R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-070RL</field>
+        <field name="Mouser Part Number">603-RC0603JR-070RL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-070RL" description="YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A47</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>0603 49.9R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A59</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>0603 49.9R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A65</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>0603 49.9R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A71</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>0603 49.9R</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A7D</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A13</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>1206 1nF</value>
+      <footprint>CAPC3216X135N</footprint>
+      <datasheet>http://docs-emea.rs-online.com/webdocs/1528/0900766b81528e81.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C1206C102KGRACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c1206c102kgractu/kemet-corporation</field>
+        <field name="Description">Capacitor Ceramic X7R 1206 2000V 1nF KEMET 1nF Multilayer Ceramic Capacitor (MLCC) 2 kV +/-10% X7R dielectric C SMD max op. temp. +125C</field>
+        <field name="Height">1.35</field>
+        <field name="Manufacturer_Name">Kemet</field>
+        <field name="Manufacturer_Part_Number">C1206C102KGRACTU</field>
+        <field name="Mouser Part Number">80-C1206C102KGR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C1206C102KGRACTU?qs=WyvL69DJJa9tcDzmkCOQcQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="C1206C102KGRACTU" description="Capacitor Ceramic X7R 1206 2000V 1nF KEMET 1nF Multilayer Ceramic Capacitor (MLCC) 2 kV +/-10% X7R dielectric C SMD max op. temp. +125C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A35</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>0603 10pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A100JAT4A" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A89</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>0603 10pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A100JAT4A" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7A95</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>0603 10pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A100JAT4A" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7AA1</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>0603 10pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A100JAT4A" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA7AAD</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0393CF</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LAN9252I_PT</value>
+      <footprint>QFP50P1200X1200X120-65N</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/00001909A.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LAN9252I/PT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lan9252ipt/microchip-technology</field>
+        <field name="Description">Ethernet Slave Controller 100Mbps TQFP64 Microchip LAN9252I/PT, Ethernet Controller, 100MBps, Host Bus, 3.3 (Max.) V, 64-Pin TQFP</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">LAN9252I/PT</field>
+        <field name="Mouser Part Number">579-LAN9252I/PT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/LAN9252I-PT?qs=%252ByRm1sYhYIkJEImYnl3l4A%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="LAN9252I_PT-LAN9252I_PT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF717F1</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>TPS560430YFQDBVRQ1</value>
+      <footprint>EEN60002020:SOT95P280X145-6N</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/TPS560430-Q1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TPS560430YFQDBVRQ1</field>
+        <field name="Description">Switching Voltage Regulators NIXON AUTO DC-DC CONVERTER</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS560430YFQDBVRQ1</field>
+        <field name="Mouser Part Number">595-S560430YFQDBVRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS560430YFQDBVRQ1?qs=P1JMDcb91o5YLRcUwn6VJA%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="TPS560430YFQDBVRQ1" description="Switching Voltage Regulators NIXON AUTO DC-DC CONVERTER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF78700</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF7B28D</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>0603 51K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>https://br.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 51Kohm .1% 0603 100ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-PB3B5102V</field>
+        <field name="Mouser Part Number">667-ERJ-PB3B5102V</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/Panasonic/ERJ-PB3B5102V?qs=sGAEpiMZZMtlubZbdhIBIG4vE%2FMWvJWYuYjd4%252ByI3TA%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFA8C6B</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>0603 22.1K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>https://br.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD .1W 51Kohm 0.1% 0603 100ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA-3AEB2212V</field>
+        <field name="Mouser Part Number">667-ERA-3AEB2212V</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/Panasonic/ERA-3AEB2212V?qs=sGAEpiMZZMvdGkrng054txAO1F77ZlZQPqg4CprVYWg%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="MCT06030C4999FP500" description="Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFAA1AD</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>SMD 10uF/16V</value>
+      <footprint>CAPAE430X550N</footprint>
+      <datasheet>http://www.lelon.com.tw/en/product_content.php?id=2801</datasheet>
+      <fields>
+        <field name="Arrow Part Number">VE-100M1CTR-0405</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ve-100m1ctr-0405/lelon-electronics</field>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 16 Volts 10uF 20% 4x5.3</field>
+        <field name="Height">5.5</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VE-100M1CTR-0405</field>
+        <field name="Mouser Part Number">140-VE100M1CTR0405</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VE-100M1CTR-0405?qs=GtPRU6UQL8xmB8BZbAkuFw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="VE-100M1CTR-0405" description="Aluminum Electrolytic Capacitors - SMD 16 Volts 10uF 20% 4x5.3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFE552E</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>1008 6.8uH</value>
+      <footprint>INDC2520X120N</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/1346194</datasheet>
+      <fields>
+        <field name="Arrow Part Number">VLS252012HBU-6R8M</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/vls252012hbu-6r8m/tdk</field>
+        <field name="Description">TDK VLS-HBU Series Type 2520 Shielded Wire-wound SMD Inductor with a Metallic Magnetic Core, 6.8 uH +/-20% 970mA Idc</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">VLS252012HBU-6R8M</field>
+        <field name="Mouser Part Number">810-VLS252012HBU6R8M</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=810-VLS252012HBU6R8M</field>
+      </fields>
+      <libsource lib="EEN60002020" part="VLS252012HBU-6R8M" description="TDK VLS-HBU Series Type 2520 Shielded Wire-wound SMD Inductor with a Metallic Magnetic Core, 6.8 uH +/-20% 970mA Idc"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF9CA8C</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>2mm 2.2uF/50V</value>
+      <footprint>CAPPRD200W50D500H1250</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_A4004_ESK.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ESK225M050AC3KA</field>
+        <field name="Description">Aluminum Electrolytic Capacitors - Radial Leaded 50V 2.2uF 85C 2k Hour Radial</field>
+        <field name="Height">12.5</field>
+        <field name="Manufacturer_Name">Kemet</field>
+        <field name="Manufacturer_Part_Number">ESK225M050AC3KA</field>
+        <field name="Mouser Part Number">80-ESK225M050AC3KA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=80-ESK225M050AC3KA</field>
+      </fields>
+      <libsource lib="EEN60002020" part="ESK225M050AC3KA" description="Aluminum Electrolytic Capacitors - Radial Leaded 50V 2.2uF 85C 2k Hour Radial"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F29DABE</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F419B72</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F4F2E70</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F4F3772</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F504011</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F50497C</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F505254</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F505B4B</tstamp>
+    </comp>
+    <comp ref="FL3">
+      <value>0603 33R</value>
+      <footprint>BLM18AG102BH1D</footprint>
+      <datasheet>https://www.murata.com/en-us/products/productdetail?partno=BLM18PG330SN1%23</datasheet>
+      <fields>
+        <field name="Arrow Part Number">BLM18PG330SN1D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/blm18pg330sn1d/murata-manufacturing</field>
+        <field name="Description">BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM18PG330SN1D</field>
+        <field name="Mouser Part Number">81-BLM18PG330SN1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18PG330SN1D?qs=4Avc3lXqH4bdltMAIp8Scg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="BLM18PG330SN1D" description="BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF8D445</tstamp>
+    </comp>
+    <comp ref="FL1">
+      <value>0603 33R</value>
+      <footprint>BLM18AG102BH1D</footprint>
+      <datasheet>https://www.murata.com/en-us/products/productdetail?partno=BLM18PG330SN1%23</datasheet>
+      <fields>
+        <field name="Arrow Part Number">BLM18PG330SN1D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/blm18pg330sn1d/murata-manufacturing</field>
+        <field name="Description">BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM18PG330SN1D</field>
+        <field name="Mouser Part Number">81-BLM18PG330SN1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18PG330SN1D?qs=4Avc3lXqH4bdltMAIp8Scg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="BLM18PG330SN1D" description="BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFBD61B</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F05490A</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0579F3</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F058015</tstamp>
+    </comp>
+    <comp ref="FL4">
+      <value>0603 33R</value>
+      <footprint>BLM18AG102BH1D</footprint>
+      <datasheet>https://www.murata.com/en-us/products/productdetail?partno=BLM18PG330SN1%23</datasheet>
+      <fields>
+        <field name="Arrow Part Number">BLM18PG330SN1D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/blm18pg330sn1d/murata-manufacturing</field>
+        <field name="Description">BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM18PG330SN1D</field>
+        <field name="Mouser Part Number">81-BLM18PG330SN1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18PG330SN1D?qs=4Avc3lXqH4bdltMAIp8Scg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="BLM18PG330SN1D" description="BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1904ED</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1C72CF</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F333806</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>0603 1K</value>
+      <footprint>RESC1608X60N</footprint>
+      <datasheet>http://componentsearchengine.com/Datasheets/1/TNPW06031K00BEEN.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TNPW06031K00BEEN</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tnpw06031k00been/vishay</field>
+        <field name="Description">RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TNPW06031K00BEEN</field>
+        <field name="Mouser Part Number">71-TNPW06031K00BEEN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/TNPW06031K00BEEN?qs=liFJyUJTUDFyk5K%252BIB4FOQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="TNPW06031K00BEEN" description="RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F62A03C</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>0603 1K</value>
+      <footprint>RESC1608X60N</footprint>
+      <datasheet>http://componentsearchengine.com/Datasheets/1/TNPW06031K00BEEN.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TNPW06031K00BEEN</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tnpw06031k00been/vishay</field>
+        <field name="Description">RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TNPW06031K00BEEN</field>
+        <field name="Mouser Part Number">71-TNPW06031K00BEEN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/TNPW06031K00BEEN?qs=liFJyUJTUDFyk5K%252BIB4FOQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="TNPW06031K00BEEN" description="RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFB0AF8</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>0603 1K</value>
+      <footprint>RESC1608X60N</footprint>
+      <datasheet>http://componentsearchengine.com/Datasheets/1/TNPW06031K00BEEN.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TNPW06031K00BEEN</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tnpw06031k00been/vishay</field>
+        <field name="Description">RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TNPW06031K00BEEN</field>
+        <field name="Mouser Part Number">71-TNPW06031K00BEEN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/TNPW06031K00BEEN?qs=liFJyUJTUDFyk5K%252BIB4FOQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="TNPW06031K00BEEN" description="RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1DD0F6</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>0603 1K</value>
+      <footprint>RESC1608X60N</footprint>
+      <datasheet>http://componentsearchengine.com/Datasheets/1/TNPW06031K00BEEN.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TNPW06031K00BEEN</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tnpw06031k00been/vishay</field>
+        <field name="Description">RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TNPW06031K00BEEN</field>
+        <field name="Mouser Part Number">71-TNPW06031K00BEEN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/TNPW06031K00BEEN?qs=liFJyUJTUDFyk5K%252BIB4FOQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="TNPW06031K00BEEN" description="RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1DD7EB</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F68A83F</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>25MHz</value>
+      <footprint>9B25000MBBKB</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/417/9b-14516.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">9B-25.000MBBK-B</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/9b-25.000mbbk-b/txc-corporation</field>
+        <field name="Description">Crystal 25MHz +/-50ppm (Tol) +/-50ppm (Stability) 20pF FUND 30Ohm 2-Pin DIP HC-49/S Thru-Hole Bulk</field>
+        <field name="Height">3.68</field>
+        <field name="Manufacturer_Name">TXC</field>
+        <field name="Manufacturer_Part_Number">9B-25.000MBBK-B</field>
+        <field name="Mouser Part Number">717-9B-25.000MBBK-B</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=717-9B-25.000MBBK-B</field>
+      </fields>
+      <libsource lib="EEN60002020" part="9B-25.000MBBK-B" description="Crystal 25MHz +/-50ppm (Tol) +/-50ppm (Stability) 20pF FUND 30Ohm 2-Pin DIP HC-49/S Thru-Hole Bulk"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F72FBC9</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0603 24pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM1885C1H240JA01D</field>
+        <field name="Description">Murata 0603 GRM 24pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5% SMD</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM1885C1H240JA01D</field>
+        <field name="Mouser Part Number">81-GRM1885C1H240JA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM1885C1H240JA01D?qs=6h95xpBL8xiLr%2F6lhDeNag%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM1885C1H240JA01D" description="Murata 0603 GRM 24pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5% SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F75A8D1</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>0603 24pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM1885C1H240JA01D</field>
+        <field name="Description">Murata 0603 GRM 24pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5% SMD</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM1885C1H240JA01D</field>
+        <field name="Mouser Part Number">81-GRM1885C1H240JA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM1885C1H240JA01D?qs=6h95xpBL8xiLr%2F6lhDeNag%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM1885C1H240JA01D" description="Murata 0603 GRM 24pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5% SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F75CF84</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F36B168</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F36E4FF</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0603 100nF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="GRM188R72A104KA35D" description="Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F36EDAA</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>0603 1uF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/C0603C105K9RAC7411.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C105K9RAC7411</field>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7R 0603 0.1</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Kemet</field>
+        <field name="Manufacturer_Part_Number">C0603C105K9RAC7411</field>
+        <field name="Mouser Part Number">80-C0603C105K9R7411</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C105K9RAC7411?qs=rrS6PyfT74dAVq%252BOL%2FqAvg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="C0603C105K9RAC7411" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7R 0603 0.1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F3DF1BF</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0603 220pF</value>
+      <footprint>CAPC1608X90N</footprint>
+      <datasheet>http://datasheets.avx.com/C0GNP0-Dielectric.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">06035A221JAT2A</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/06035a221jat2a/avx</field>
+        <field name="Description">0603 C0G ceramic capacitor,220pF 50V AVX 0603 Standard 220pF Ceramic Multilayer Capacitor, 50 V dc, +125degC, C0G Dielectric,  /-5% SMD</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A221JAT2A</field>
+        <field name="Mouser Part Number">581-06035A221J</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=581-06035A221J</field>
+      </fields>
+      <libsource lib="EEN60002020" part="06035A221JAT2A" description="0603 C0G ceramic capacitor,220pF 50V AVX 0603 Standard 220pF Ceramic Multilayer Capacitor, 50 V dc, +125degC, C0G Dielectric,  /-5% SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F3FE3FA</tstamp>
+    </comp>
+    <comp ref="FL5">
+      <value>0805 330R</value>
+      <footprint>BLM21AG102BH1J</footprint>
+      <datasheet>https://www.murata.com/en-us/products/productdetail?partno=BLM21PG331SH1%23</datasheet>
+      <fields>
+        <field name="Description">BLM21_H1D Series EMI Suppression Filter 330+/-25% at 100MHz 1.5A @85</field>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM21PG331SH1D</field>
+        <field name="Mouser Part Number">81-BLM21PG331SH1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM21PG331SH1D?qs=o7n8P6BqXHstXsMMUKxqKQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="BLM21PG331SH1D" description="BLM21_H1D Series EMI Suppression Filter 330+/-25% at 100MHz 1.5A @85"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F01A49B</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>AT24C16D-SSHM-T</value>
+      <footprint>SOIC127P600X175-8N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/268/20005858A-1398093.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">AT24C16D-SSHM-T</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/at24c16d-sshm-t/microchip-technology</field>
+        <field name="Description">1.7-3.6V, 1MHZ, IND TMP, 8-SOI</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">AT24C16D-SSHM-T</field>
+        <field name="Mouser Part Number">556-AT24C16D-SSHM-T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=556-AT24C16D-SSHM-T</field>
+      </fields>
+      <libsource lib="EEN60002020" part="AT24C16D-SSHM-T" description="1.7-3.6V, 1MHZ, IND TMP, 8-SOI"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0BB5F1</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>0603 2.2K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">RESISTOR, 0603 2.2K Ohms +/-5% 1/10 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-072K2L</field>
+        <field name="Mouser Part Number">603-RC0603JR-072K2L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-072K2L?qs=%2F9ZTgpVJnN4N31C%252B33L1Sw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-072K2L" description="RESISTOR, 0603 2.2K Ohms +/-5% 1/10 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0BDE27</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>0603 2.2K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">RESISTOR, 0603 2.2K Ohms +/-5% 1/10 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-072K2L</field>
+        <field name="Mouser Part Number">603-RC0603JR-072K2L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-072K2L?qs=%2F9ZTgpVJnN4N31C%252B33L1Sw%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-072K2L" description="RESISTOR, 0603 2.2K Ohms +/-5% 1/10 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0C9D11</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>0603 10K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD 10K OHM 5%</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-1310KL</field>
+        <field name="Mouser Part Number">603-RC0603JR-1310KL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-1310KL?qs=fRxXYNj8ftGElB7H8LG5QQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-1310KL" description="Thick Film Resistors - SMD 10K OHM 5%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0EF55F</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>0603 4.7K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ERJ-3EKF4701V</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/erj-3ekf4701v/panasonic</field>
+        <field name="Description">RESISTOR, 0603 4.7 kOhm +/-1 % 0.1 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-3EKF4701V</field>
+        <field name="Mouser Part Number">667-ERJ-3EKF4701V</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF4701V?qs=MVjVSMjNRMouVvwnqrpO2w%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="ERJ-3EKF4701V" description="RESISTOR, 0603 4.7 kOhm +/-1 % 0.1 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1EFF02</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>0603 10K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD 10K OHM 5%</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-1310KL</field>
+        <field name="Mouser Part Number">603-RC0603JR-1310KL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-1310KL?qs=fRxXYNj8ftGElB7H8LG5QQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-1310KL" description="Thick Film Resistors - SMD 10K OHM 5%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2DE518</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>0603 10K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD 10K OHM 5%</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-1310KL</field>
+        <field name="Mouser Part Number">603-RC0603JR-1310KL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-1310KL?qs=fRxXYNj8ftGElB7H8LG5QQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-1310KL" description="Thick Film Resistors - SMD 10K OHM 5%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2E14DE</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>0603 10K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD 10K OHM 5%</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-1310KL</field>
+        <field name="Mouser Part Number">603-RC0603JR-1310KL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-1310KL?qs=fRxXYNj8ftGElB7H8LG5QQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-1310KL" description="Thick Film Resistors - SMD 10K OHM 5%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2E1D1B</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>0603 10K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD 10K OHM 5%</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-1310KL</field>
+        <field name="Mouser Part Number">603-RC0603JR-1310KL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-1310KL?qs=fRxXYNj8ftGElB7H8LG5QQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="RC0603JR-1310KL" description="Thick Film Resistors - SMD 10K OHM 5%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2E31C4</tstamp>
+    </comp>
+    <comp ref="FL2">
+      <value>0603 33R</value>
+      <footprint>BLM18AG102BH1D</footprint>
+      <datasheet>https://www.murata.com/en-us/products/productdetail?partno=BLM18PG330SN1%23</datasheet>
+      <fields>
+        <field name="Arrow Part Number">BLM18PG330SN1D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/blm18pg330sn1d/murata-manufacturing</field>
+        <field name="Description">BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM18PG330SN1D</field>
+        <field name="Mouser Part Number">81-BLM18PG330SN1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18PG330SN1D?qs=4Avc3lXqH4bdltMAIp8Scg%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="BLM18PG330SN1D" description="BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFBCE51</tstamp>
+    </comp>
+    <comp ref="LED1">
+      <value>3mm Verde</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF1AA44</tstamp>
+    </comp>
+    <comp ref="LED2">
+      <value>3mm Verde</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF6B0B7</tstamp>
+    </comp>
+    <comp ref="LED3">
+      <value>3mm Verde</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FFB70C3</tstamp>
+    </comp>
+    <comp ref="LED4">
+      <value>3mm Verde</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60054CE1</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>T4040034041-000</value>
+      <footprint>T4040034041000</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7FT40400340X1000%7FA%7Fpdf%7FEnglish%7FENG_CD_T40400340X1000_A.pdf%7FT4040034041-000</datasheet>
+      <fields>
+        <field name="Description">TE CONNECTIVITY - T4040034041-000 - SENSOR CONNECTOR, M8, PLUG, 4POS, PANEL</field>
+        <field name="Height">16.8</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">T4040034041-000</field>
+        <field name="Mouser Part Number">571-T4040034041-000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/T4040034041-000?qs=1mbolxNpo8czrnUhM6VZwQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="T4040034041-000" description="TE CONNECTIVITY - T4040034041-000 - SENSOR CONNECTOR, M8, PLUG, 4POS, PANEL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F03C6FC</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>T4041037041-000</value>
+      <footprint>T4041037041000</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/T4041037041-000.pdf</datasheet>
+      <fields>
+        <field name="Description">TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL</field>
+        <field name="Height">15.25</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">T4041037041-000</field>
+        <field name="Mouser Part Number">571-T4041037041-000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/T4041037041-000?qs=1mbolxNpo8e0ryuUhGdttQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="T4041037041-000" description="TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0C23B6</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>T4041037041-000</value>
+      <footprint>T4041037041000</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/T4041037041-000.pdf</datasheet>
+      <fields>
+        <field name="Description">TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL</field>
+        <field name="Height">15.25</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">T4041037041-000</field>
+        <field name="Mouser Part Number">571-T4041037041-000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/T4041037041-000?qs=1mbolxNpo8e0ryuUhGdttQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="T4041037041-000" description="TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F34B36A</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>T4041037041-000</value>
+      <footprint>T4041037041000</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/T4041037041-000.pdf</datasheet>
+      <fields>
+        <field name="Description">TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL</field>
+        <field name="Height">15.25</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">T4041037041-000</field>
+        <field name="Mouser Part Number">571-T4041037041-000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/T4041037041-000?qs=1mbolxNpo8e0ryuUhGdttQ%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="T4041037041-000" description="TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F34E3D4</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0B63FA</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>0603 4.7K</value>
+      <footprint>RESC1608X55N</footprint>
+      <datasheet>http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ERJ-3EKF4701V</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/erj-3ekf4701v/panasonic</field>
+        <field name="Description">RESISTOR, 0603 4.7 kOhm +/-1 % 0.1 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-3EKF4701V</field>
+        <field name="Mouser Part Number">667-ERJ-3EKF4701V</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF4701V?qs=MVjVSMjNRMouVvwnqrpO2w%3D%3D</field>
+      </fields>
+      <libsource lib="EEN60002020" part="ERJ-3EKF4701V" description="RESISTOR, 0603 4.7 kOhm +/-1 % 0.1 W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F4821E9</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>0603 0R</value>
+      <footprint>Fuse:Fuse_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Fuse_Small" description="Fuse, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E0C3D</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse_Small">
+      <description>Fuse, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="06035A100JAT4A">
+      <description>Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">06035A100JAT4A</field>
+        <field name="Footprint">CAPC1608X90N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf</field>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10pF C0G 0603 5% Tol</field>
+        <field name="Height">0.9</field>
+        <field name="Mouser Part Number">581-06035A100JAT4A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/06035A100JAT4A?qs=VsusWq3clnxwCsIE8ByKhA%3D%3D</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A100JAT4A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="06035A221JAT2A">
+      <description>0603 C0G ceramic capacitor,220pF 50V AVX 0603 Standard 220pF Ceramic Multilayer Capacitor, 50 V dc, +125degC, C0G Dielectric,  /-5% SMD</description>
+      <docs>http://datasheets.avx.com/C0GNP0-Dielectric.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">06035A221JAT2A</field>
+        <field name="Footprint">CAPC1608X90N</field>
+        <field name="Datasheet">http://datasheets.avx.com/C0GNP0-Dielectric.pdf</field>
+        <field name="Description">0603 C0G ceramic capacitor,220pF 50V AVX 0603 Standard 220pF Ceramic Multilayer Capacitor, 50 V dc, +125degC, C0G Dielectric,  /-5% SMD</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">06035A221JAT2A</field>
+        <field name="Arrow Part Number">06035A221JAT2A</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/06035a221jat2a/avx</field>
+        <field name="Mouser Part Number">581-06035A221J</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=581-06035A221J</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="9B-25.000MBBK-B">
+      <description>Crystal 25MHz +/-50ppm (Tol) +/-50ppm (Stability) 20pF FUND 30Ohm 2-Pin DIP HC-49/S Thru-Hole Bulk</description>
+      <docs>https://www.mouser.com/datasheet/2/417/9b-14516.pdf</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">9B-25.000MBBK-B</field>
+        <field name="Footprint">9B25000MBBKB</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/417/9b-14516.pdf</field>
+        <field name="Description">Crystal 25MHz +/-50ppm (Tol) +/-50ppm (Stability) 20pF FUND 30Ohm 2-Pin DIP HC-49/S Thru-Hole Bulk</field>
+        <field name="Height">3.68</field>
+        <field name="Manufacturer_Name">TXC</field>
+        <field name="Manufacturer_Part_Number">9B-25.000MBBK-B</field>
+        <field name="Arrow Part Number">9B-25.000MBBK-B</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/9b-25.000mbbk-b/txc-corporation</field>
+        <field name="Mouser Part Number">717-9B-25.000MBBK-B</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=717-9B-25.000MBBK-B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="AT24C16D-SSHM-T">
+      <description>1.7-3.6V, 1MHZ, IND TMP, 8-SOI</description>
+      <docs>https://www.mouser.com/datasheet/2/268/20005858A-1398093.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AT24C16D-SSHM-T</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/268/20005858A-1398093.pdf</field>
+        <field name="Description">1.7-3.6V, 1MHZ, IND TMP, 8-SOI</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">AT24C16D-SSHM-T</field>
+        <field name="Arrow Part Number">AT24C16D-SSHM-T</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/at24c16d-sshm-t/microchip-technology</field>
+        <field name="Mouser Part Number">556-AT24C16D-SSHM-T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=556-AT24C16D-SSHM-T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC_1" type="passive"/>
+        <pin num="2" name="NC_2" type="passive"/>
+        <pin num="3" name="NC_3" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="SDA" type="passive"/>
+        <pin num="6" name="SCL" type="passive"/>
+        <pin num="7" name="WP" type="passive"/>
+        <pin num="8" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="BLM18PG330SN1D">
+      <description>BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85</description>
+      <docs>https://www.murata.com/en-us/products/productdetail?partno=BLM18PG330SN1%23</docs>
+      <fields>
+        <field name="Reference">FL</field>
+        <field name="Value">BLM18PG330SN1D</field>
+        <field name="Footprint">BLM18AG102BH1D</field>
+        <field name="Datasheet">https://www.murata.com/en-us/products/productdetail?partno=BLM18PG330SN1%23</field>
+        <field name="Description">BLM18_N1D Series EMI Suppression Filter 33+/-25% at 100MHz 3A @85</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM18PG330SN1D</field>
+        <field name="Arrow Part Number">BLM18PG330SN1D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/blm18pg330sn1d/murata-manufacturing</field>
+        <field name="Mouser Part Number">81-BLM18PG330SN1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18PG330SN1D?qs=4Avc3lXqH4bdltMAIp8Scg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="BLM21PG331SH1D">
+      <description>BLM21_H1D Series EMI Suppression Filter 330+/-25% at 100MHz 1.5A @85</description>
+      <docs>https://www.murata.com/en-us/products/productdetail?partno=BLM21PG331SH1%23</docs>
+      <fields>
+        <field name="Reference">FL</field>
+        <field name="Value">BLM21PG331SH1D</field>
+        <field name="Footprint">BLM21AG102BH1J</field>
+        <field name="Datasheet">https://www.murata.com/en-us/products/productdetail?partno=BLM21PG331SH1%23</field>
+        <field name="Description">BLM21_H1D Series EMI Suppression Filter 330+/-25% at 100MHz 1.5A @85</field>
+        <field name="Height">1.05</field>
+        <field name="Mouser Part Number">81-BLM21PG331SH1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM21PG331SH1D?qs=o7n8P6BqXHstXsMMUKxqKQ%3D%3D</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM21PG331SH1D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="C0603C105K9RAC7411">
+      <description>Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7R 0603 0.1</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/C0603C105K9RAC7411.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C0603C105K9RAC7411</field>
+        <field name="Footprint">CAPC1608X90N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/C0603C105K9RAC7411.pdf</field>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7R 0603 0.1</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Kemet</field>
+        <field name="Manufacturer_Part_Number">C0603C105K9RAC7411</field>
+        <field name="Arrow Part Number">C0603C105K9RAC7411</field>
+        <field name="Mouser Part Number">80-C0603C105K9R7411</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C105K9RAC7411?qs=rrS6PyfT74dAVq%252BOL%2FqAvg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="C1206C102KGRACTU">
+      <description>Capacitor Ceramic X7R 1206 2000V 1nF KEMET 1nF Multilayer Ceramic Capacitor (MLCC) 2 kV +/-10% X7R dielectric C SMD max op. temp. +125C</description>
+      <docs>http://docs-emea.rs-online.com/webdocs/1528/0900766b81528e81.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C1206C102KGRACTU</field>
+        <field name="Footprint">CAPC3216X135N</field>
+        <field name="Datasheet">http://docs-emea.rs-online.com/webdocs/1528/0900766b81528e81.pdf</field>
+        <field name="Description">Capacitor Ceramic X7R 1206 2000V 1nF KEMET 1nF Multilayer Ceramic Capacitor (MLCC) 2 kV +/-10% X7R dielectric C SMD max op. temp. +125C</field>
+        <field name="Height">1.35</field>
+        <field name="Manufacturer_Name">Kemet</field>
+        <field name="Manufacturer_Part_Number">C1206C102KGRACTU</field>
+        <field name="Arrow Part Number">C1206C102KGRACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c1206c102kgractu/kemet-corporation</field>
+        <field name="Mouser Part Number">80-C1206C102KGR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C1206C102KGRACTU?qs=WyvL69DJJa9tcDzmkCOQcQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="CRCW060312K1FKEA">
+      <description>Vishay CRCW Series Thick Film Surface Mount Resistor 0603 Case 12.1k +/-1% 0.1W +/-100ppm/C</description>
+      <docs>http://www.vishay.com/docs/20035/dcrcwe3.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">CRCW060312K1FKEA</field>
+        <field name="Footprint">RESC1608X50N</field>
+        <field name="Datasheet">http://www.vishay.com/docs/20035/dcrcwe3.pdf</field>
+        <field name="Description">Vishay CRCW Series Thick Film Surface Mount Resistor 0603 Case 12.1k +/-1% 0.1W +/-100ppm/C</field>
+        <field name="Height">0.5</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">CRCW060312K1FKEA</field>
+        <field name="Arrow Part Number">CRCW060312K1FKEA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/crcw060312k1fkea/vishay</field>
+        <field name="Mouser Part Number">71-CRCW0603-12.1K-E3</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW0603-12.1K-E3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="ERJ-3EKF4701V">
+      <description>RESISTOR, 0603 4.7 kOhm +/-1 % 0.1 W</description>
+      <docs>http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">ERJ-3EKF4701V</field>
+        <field name="Footprint">RESC1608X55N</field>
+        <field name="Datasheet">http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf</field>
+        <field name="Description">RESISTOR, 0603 4.7 kOhm +/-1 % 0.1 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-3EKF4701V</field>
+        <field name="Arrow Part Number">ERJ-3EKF4701V</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/erj-3ekf4701v/panasonic</field>
+        <field name="Mouser Part Number">667-ERJ-3EKF4701V</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF4701V?qs=MVjVSMjNRMouVvwnqrpO2w%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="ESK225M050AC3KA">
+      <description>Aluminum Electrolytic Capacitors - Radial Leaded 50V 2.2uF 85C 2k Hour Radial</description>
+      <docs>https://content.kemet.com/datasheets/KEM_A4004_ESK.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">ESK225M050AC3KA</field>
+        <field name="Footprint">CAPPRD200W50D500H1250</field>
+        <field name="Datasheet">https://content.kemet.com/datasheets/KEM_A4004_ESK.pdf</field>
+        <field name="Description">Aluminum Electrolytic Capacitors - Radial Leaded 50V 2.2uF 85C 2k Hour Radial</field>
+        <field name="Height">12.5</field>
+        <field name="Manufacturer_Name">Kemet</field>
+        <field name="Manufacturer_Part_Number">ESK225M050AC3KA</field>
+        <field name="Arrow Part Number">ESK225M050AC3KA</field>
+        <field name="Mouser Part Number">80-ESK225M050AC3KA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=80-ESK225M050AC3KA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="GRM1885C1H240JA01D">
+      <description>Murata 0603 GRM 24pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5% SMD</description>
+      <docs>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GRM1885C1H240JA01D</field>
+        <field name="Footprint">CAPC1608X90N</field>
+        <field name="Datasheet">http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</field>
+        <field name="Description">Murata 0603 GRM 24pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5% SMD</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM1885C1H240JA01D</field>
+        <field name="Arrow Part Number">GRM1885C1H240JA01D</field>
+        <field name="Mouser Part Number">81-GRM1885C1H240JA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM1885C1H240JA01D?qs=6h95xpBL8xiLr%2F6lhDeNag%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="GRM188R72A104KA35D">
+      <description>Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</description>
+      <docs>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GRM188R72A104KA35D</field>
+        <field name="Footprint">CAPC1608X90N</field>
+        <field name="Datasheet">http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</field>
+        <field name="Description">Ceramic  SMT capacitor 100nF 100Vdc Murata 0603 GRM 100uF Ceramic Multilayer Capacitor, 100 V dc X7R Dielectric +/-10%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Part Number">GRM188R72A104KA35D</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/grm188r72a104ka35d/murata-manufacturing</field>
+        <field name="Mouser Part Number">81-GRM188R72A104KA35</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R72A104KA35D?qs=P%252BBA3F6RM%2F5aaC9LFKRzYw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="LAN9252I_PT-LAN9252I_PT">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LAN9252I_PT-LAN9252I_PT</field>
+        <field name="Footprint">QFP50P1200X1200X120-65N</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/00001909A.pdf</field>
+        <field name="Description">Ethernet Slave Controller 100Mbps TQFP64 Microchip LAN9252I/PT, Ethernet Controller, 100MBps, Host Bus, 3.3 (Max.) V, 64-Pin TQFP</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">LAN9252I/PT</field>
+        <field name="Arrow Part Number">LAN9252I/PT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lan9252ipt/microchip-technology</field>
+        <field name="Mouser Part Number">579-LAN9252I/PT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/LAN9252I-PT?qs=%252ByRm1sYhYIkJEImYnl3l4A%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OSCI" type="passive"/>
+        <pin num="2" name="OSCO" type="passive"/>
+        <pin num="3" name="OSCVDD12" type="NotConnected"/>
+        <pin num="4" name="OSCVSS" type="passive"/>
+        <pin num="5" name="VDD33" type="passive"/>
+        <pin num="6" name="VDDCR_1" type="passive"/>
+        <pin num="7" name="REG_EN" type="passive"/>
+        <pin num="8" name="FXLOSEN" type="passive"/>
+        <pin num="9" name="FXSDA" type="passive"/>
+        <pin num="10" name="FXSDB" type="passive"/>
+        <pin num="11" name="RST#" type="passive"/>
+        <pin num="12" name="D2" type="NotConnected"/>
+        <pin num="13" name="SO" type="passive"/>
+        <pin num="14" name="VDDIO_1" type="passive"/>
+        <pin num="15" name="D14" type="NotConnected"/>
+        <pin num="16" name="D13" type="NotConnected"/>
+        <pin num="17" name="SI" type="passive"/>
+        <pin num="18" name="SYNC1" type="output"/>
+        <pin num="19" name="SCK" type="passive"/>
+        <pin num="20" name="VDDIO_2" type="passive"/>
+        <pin num="21" name="D12" type="NotConnected"/>
+        <pin num="22" name="D11" type="NotConnected"/>
+        <pin num="23" name="D10" type="NotConnected"/>
+        <pin num="24" name="VDDCR_2" type="passive"/>
+        <pin num="25" name="A1" type="NotConnected"/>
+        <pin num="26" name="A3" type="NotConnected"/>
+        <pin num="27" name="A4" type="NotConnected"/>
+        <pin num="28" name="CS" type="NotConnected"/>
+        <pin num="29" name="A2" type="NotConnected"/>
+        <pin num="30" name="WR" type="NotConnected"/>
+        <pin num="31" name="RD" type="NotConnected"/>
+        <pin num="32" name="VDDIO_3" type="passive"/>
+        <pin num="33" name="A0" type="NotConnected"/>
+        <pin num="34" name="SYNC0" type="output"/>
+        <pin num="35" name="D3" type="NotConnected"/>
+        <pin num="36" name="D6" type="NotConnected"/>
+        <pin num="37" name="VDDIO_4" type="passive"/>
+        <pin num="38" name="VDDCR_3" type="passive"/>
+        <pin num="39" name="D7" type="NotConnected"/>
+        <pin num="40" name="D8" type="NotConnected"/>
+        <pin num="41" name="TESTMODE" type="passive"/>
+        <pin num="42" name="SDA" type="passive"/>
+        <pin num="43" name="SCL" type="passive"/>
+        <pin num="44" name="IRQ" type="output"/>
+        <pin num="45" name="RUNLED/E2PSIZE" type="passive"/>
+        <pin num="46" name="ACTLED1/MODE1" type="passive"/>
+        <pin num="47" name="VDDIO_5" type="passive"/>
+        <pin num="48" name="ACTLED0/MODE0" type="passive"/>
+        <pin num="49" name="D4" type="NotConnected"/>
+        <pin num="50" name="SCS#" type="input"/>
+        <pin num="51" name="VDD33TXRX1" type="passive"/>
+        <pin num="52" name="TXNA" type="passive"/>
+        <pin num="53" name="TXPA" type="passive"/>
+        <pin num="54" name="RXNA" type="passive"/>
+        <pin num="55" name="RXPA" type="passive"/>
+        <pin num="56" name="VDD12TX1" type="passive"/>
+        <pin num="57" name="RBIAS" type="passive"/>
+        <pin num="58" name="VDD33BIAS" type="passive"/>
+        <pin num="59" name="VDD12TX2" type="passive"/>
+        <pin num="60" name="RXPB" type="passive"/>
+        <pin num="61" name="RXNB" type="passive"/>
+        <pin num="62" name="TXPB" type="passive"/>
+        <pin num="63" name="TXNB" type="passive"/>
+        <pin num="64" name="VDD33TXRX2" type="passive"/>
+        <pin num="65" name="EPAD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="MCT06030C4999FP500">
+      <description>Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</description>
+      <docs>http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">MCT06030C4999FP500</field>
+        <field name="Footprint">RESC1608X55N</field>
+        <field name="Datasheet">http://www.vishay.com/docs/28705/mcx0x0xpro.pdf</field>
+        <field name="Description">Thin Film Resistors - SMD .1W 49.9ohm 1% 0603 50ppm Auto</field>
+        <field name="Height">0.55</field>
+        <field name="Mouser Part Number">594-MCT06030C4999FP5</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C4999FP500?qs=hjSuqQECij9E4Ek5W5WSXA%3D%3D</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">MCT06030C4999FP500</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="RC0603FR-0775RL">
+      <description>RESISTOR, 0603 75 Ohms +/-1% 1/10 W</description>
+      <docs>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603FR-0775RL</field>
+        <field name="Footprint">RESC1608X55N</field>
+        <field name="Datasheet">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="Description">RESISTOR, 0603 75 Ohms +/-1% 1/10 W</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603FR-0775RL</field>
+        <field name="Arrow Part Number">RC0603FR-0775RL</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/rc0603fr-0775rl/yageo</field>
+        <field name="Mouser Part Number">603-RC0603FR-0775RL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603FR-0775RL?qs=NEN%2FsE%2FLsvOyCMLfQoUEYg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="RC0603JR-070RL">
+      <description>YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603</description>
+      <docs>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603JR-070RL</field>
+        <field name="Footprint">RESC1608X55N</field>
+        <field name="Datasheet">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="Description">YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603</field>
+        <field name="Height">0.55</field>
+        <field name="Mouser Part Number">603-RC0603JR-070RL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-070RL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="RC0603JR-072K2L">
+      <description>RESISTOR, 0603 2.2K Ohms +/-5% 1/10 W</description>
+      <docs>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603JR-072K2L</field>
+        <field name="Footprint">RESC1608X55N</field>
+        <field name="Datasheet">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="Description">RESISTOR, 0603 2.2K Ohms +/-5% 1/10 W</field>
+        <field name="Height">0.55</field>
+        <field name="Mouser Part Number">603-RC0603JR-072K2L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-072K2L?qs=%2F9ZTgpVJnN4N31C%252B33L1Sw%3D%3D</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-072K2L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="RC0603JR-1310KL">
+      <description>Thick Film Resistors - SMD 10K OHM 5%</description>
+      <docs>http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603JR-1310KL</field>
+        <field name="Footprint">RESC1608X55N</field>
+        <field name="Datasheet">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="Description">Thick Film Resistors - SMD 10K OHM 5%</field>
+        <field name="Height">0.55</field>
+        <field name="Mouser Part Number">603-RC0603JR-1310KL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Yageo/RC0603JR-1310KL?qs=fRxXYNj8ftGElB7H8LG5QQ%3D%3D</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">RC0603JR-1310KL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="SM13072APEL">
+      <description>BOURNS - SM13072APEL - TRANSFORMER, AEC-Q200, IEEE802.3, 350UH</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/SM13072APEL.pdf</docs>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">SM13072APEL</field>
+        <field name="Footprint">Transformer_SMD:Transformer_Ethernet_Bourns_PT61017PEL</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/SM13072APEL.pdf</field>
+        <field name="Description">BOURNS - SM13072APEL - TRANSFORMER, AEC-Q200, IEEE802.3, 350UH</field>
+        <field name="Height">5.9</field>
+        <field name="Mouser_Part_Number">652-SM13072APEL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-SM13072APEL</field>
+        <field name="Vendor">Bourns</field>
+        <field name="Manufacturer_Part_Number">SM13072APEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+        <pin num="3" name="3" type="BiDi"/>
+        <pin num="4" name="4" type="BiDi"/>
+        <pin num="5" name="5" type="BiDi"/>
+        <pin num="6" name="6" type="BiDi"/>
+        <pin num="7" name="7" type="BiDi"/>
+        <pin num="8" name="8" type="BiDi"/>
+        <pin num="9" name="9" type="BiDi"/>
+        <pin num="10" name="10" type="BiDi"/>
+        <pin num="11" name="11" type="BiDi"/>
+        <pin num="12" name="12" type="BiDi"/>
+        <pin num="13" name="13" type="BiDi"/>
+        <pin num="14" name="14" type="BiDi"/>
+        <pin num="15" name="15" type="BiDi"/>
+        <pin num="16" name="16" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="T4040034041-000">
+      <description>TE CONNECTIVITY - T4040034041-000 - SENSOR CONNECTOR, M8, PLUG, 4POS, PANEL</description>
+      <docs>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7FT40400340X1000%7FA%7Fpdf%7FEnglish%7FENG_CD_T40400340X1000_A.pdf%7FT4040034041-000</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">T4040034041-000</field>
+        <field name="Footprint">T4040034041000</field>
+        <field name="Datasheet">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7FT40400340X1000%7FA%7Fpdf%7FEnglish%7FENG_CD_T40400340X1000_A.pdf%7FT4040034041-000</field>
+        <field name="Description">TE CONNECTIVITY - T4040034041-000 - SENSOR CONNECTOR, M8, PLUG, 4POS, PANEL</field>
+        <field name="Height">16.8</field>
+        <field name="Mouser Part Number">571-T4040034041-000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/T4040034041-000?qs=1mbolxNpo8czrnUhM6VZwQ%3D%3D</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">T4040034041-000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="T4041037041-000">
+      <description>TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/T4041037041-000.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">T4041037041-000</field>
+        <field name="Footprint">T4041037041000</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/T4041037041-000.pdf</field>
+        <field name="Description">TE CONNECTIVITY - T4041037041-000 - SENSOR CONNECTOR, M8, RCPT, 4POS, PANEL</field>
+        <field name="Height">15.25</field>
+        <field name="Mouser Part Number">571-T4041037041-000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/T4041037041-000?qs=1mbolxNpo8e0ryuUhGdttQ%3D%3D</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">T4041037041-000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="TNPW06031K00BEEN">
+      <description>RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W</description>
+      <docs>http://componentsearchengine.com/Datasheets/1/TNPW06031K00BEEN.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">TNPW06031K00BEEN</field>
+        <field name="Footprint">RESC1608X60N</field>
+        <field name="Datasheet">http://componentsearchengine.com/Datasheets/1/TNPW06031K00BEEN.pdf</field>
+        <field name="Description">RESISTOR, 0603 1K Ohms +/- 0.1 % 0.1 W</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TNPW06031K00BEEN</field>
+        <field name="Arrow Part Number">TNPW06031K00BEEN</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tnpw06031k00been/vishay</field>
+        <field name="Mouser Part Number">71-TNPW06031K00BEEN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/TNPW06031K00BEEN?qs=liFJyUJTUDFyk5K%252BIB4FOQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="TPS560430YFQDBVRQ1">
+      <description>Switching Voltage Regulators NIXON AUTO DC-DC CONVERTER</description>
+      <docs>https://www.ti.com/lit/gpn/TPS560430-Q1</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TPS560430YFQDBVRQ1</field>
+        <field name="Footprint">SOT95P280X145-6N</field>
+        <field name="Datasheet">https://www.ti.com/lit/gpn/TPS560430-Q1</field>
+        <field name="Description">Switching Voltage Regulators NIXON AUTO DC-DC CONVERTER</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS560430YFQDBVRQ1</field>
+        <field name="Arrow Part Number">TPS560430YFQDBVRQ1</field>
+        <field name="Mouser Part Number">595-S560430YFQDBVRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS560430YFQDBVRQ1?qs=P1JMDcb91o5YLRcUwn6VJA%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CB" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FB" type="passive"/>
+        <pin num="4" name="EN" type="power_in"/>
+        <pin num="5" name="VIN" type="power_in"/>
+        <pin num="6" name="SW" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="VE-100M1CTR-0405">
+      <description>Aluminum Electrolytic Capacitors - SMD 16 Volts 10uF 20% 4x5.3</description>
+      <docs>http://www.lelon.com.tw/en/product_content.php?id=2801</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">VE-100M1CTR-0405</field>
+        <field name="Footprint">CAPAE430X550N</field>
+        <field name="Datasheet">http://www.lelon.com.tw/en/product_content.php?id=2801</field>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 16 Volts 10uF 20% 4x5.3</field>
+        <field name="Height">5.5</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VE-100M1CTR-0405</field>
+        <field name="Arrow Part Number">VE-100M1CTR-0405</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ve-100m1ctr-0405/lelon-electronics</field>
+        <field name="Mouser Part Number">140-VE100M1CTR0405</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VE-100M1CTR-0405?qs=GtPRU6UQL8xmB8BZbAkuFw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEN60002020" part="VLS252012HBU-6R8M">
+      <description>TDK VLS-HBU Series Type 2520 Shielded Wire-wound SMD Inductor with a Metallic Magnetic Core, 6.8 uH +/-20% 970mA Idc</description>
+      <docs>http://uk.rs-online.com/web/p/products/1346194</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">VLS252012HBU-6R8M</field>
+        <field name="Footprint">INDC2520X120N</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/1346194</field>
+        <field name="Description">TDK VLS-HBU Series Type 2520 Shielded Wire-wound SMD Inductor with a Metallic Magnetic Core, 6.8 uH +/-20% 970mA Idc</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">VLS252012HBU-6R8M</field>
+        <field name="Arrow Part Number">VLS252012HBU-6R8M</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/vls252012hbu-6r8m/tdk</field>
+        <field name="Mouser Part Number">810-VLS252012HBU6R8M</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=810-VLS252012HBU6R8M</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="EEN60002020">
+      <uri>C:\Program Files\KiCad\projects\EEN60002020/EEN60002020.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(IC2-Pad1)">
+      <node ref="IC2" pin="7"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="R29" pin="1"/>
+      <node ref="IC2" pin="2"/>
+      <node ref="IC2" pin="1"/>
+    </net>
+    <net code="2" name="Net-(IC2-Pad5)">
+      <node ref="IC2" pin="5"/>
+      <node ref="R11" pin="2"/>
+      <node ref="U1" pin="42"/>
+    </net>
+    <net code="3" name="+3V3">
+      <node ref="FL1" pin="2"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="FL3" pin="2"/>
+      <node ref="FL2" pin="1"/>
+      <node ref="R30" pin="1"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C22" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="IC2" pin="8"/>
+      <node ref="C16" pin="1"/>
+      <node ref="L1" pin="2"/>
+      <node ref="R14" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="R11" pin="1"/>
+      <node ref="U1" pin="47"/>
+      <node ref="U1" pin="37"/>
+      <node ref="U1" pin="14"/>
+      <node ref="R10" pin="1"/>
+      <node ref="U1" pin="32"/>
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="4" name="Net-(C20-Pad1)">
+      <node ref="U1" pin="58"/>
+      <node ref="FL2" pin="2"/>
+      <node ref="C20" pin="1"/>
+    </net>
+    <net code="5" name="Net-(IC2-Pad6)">
+      <node ref="R10" pin="2"/>
+      <node ref="U1" pin="43"/>
+      <node ref="IC2" pin="6"/>
+    </net>
+    <net code="6" name="Net-(R1-Pad1)">
+      <node ref="U1" pin="48"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="7" name="Net-(R6-Pad1)">
+      <node ref="U1" pin="45"/>
+      <node ref="R9" pin="1"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="8" name="Net-(LED3-Pad2)">
+      <node ref="LED3" pin="2"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="9" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="U1" pin="46"/>
+    </net>
+    <net code="10" name="Net-(C10-Pad1)">
+      <node ref="U1" pin="59"/>
+      <node ref="U1" pin="56"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="FL4" pin="1"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="U1" pin="4"/>
+      <node ref="U1" pin="41"/>
+      <node ref="LED1" pin="1"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C34" pin="1"/>
+      <node ref="U1" pin="65"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="C23" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="LED4" pin="1"/>
+      <node ref="LED3" pin="1"/>
+      <node ref="C27" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="LED2" pin="1"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C33" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="J3" pin="5"/>
+      <node ref="J3" pin="3"/>
+      <node ref="C10" pin="2"/>
+      <node ref="J3" pin="1"/>
+      <node ref="C5" pin="2"/>
+      <node ref="FL5" pin="1"/>
+      <node ref="J1" pin="3"/>
+      <node ref="R13" pin="2"/>
+      <node ref="J2" pin="3"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="IC2" pin="4"/>
+      <node ref="C12" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R29" pin="2"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="12" name="/J2R+">
+      <node ref="J5" pin="2"/>
+      <node ref="T2" pin="11"/>
+    </net>
+    <net code="13" name="Net-(J1-Pad2)">
+      <node ref="J2" pin="2"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="14" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4"/>
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="15" name="/J1T+">
+      <node ref="T1" pin="16"/>
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="16" name="/J1R+">
+      <node ref="T1" pin="11"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="17" name="GNDPWR">
+      <node ref="C36" pin="1"/>
+      <node ref="C35" pin="1"/>
+      <node ref="FL5" pin="2"/>
+    </net>
+    <net code="18" name="/OSC+">
+      <node ref="U1" pin="1"/>
+      <node ref="Y1" pin="1"/>
+      <node ref="C7" pin="1"/>
+    </net>
+    <net code="19" name="/OSC-">
+      <node ref="U1" pin="2"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="C14" pin="1"/>
+    </net>
+    <net code="20" name="Net-(J3-Pad10)">
+      <node ref="U1" pin="34"/>
+      <node ref="J3" pin="10"/>
+    </net>
+    <net code="21" name="Net-(J3-Pad2)">
+      <node ref="U1" pin="13"/>
+      <node ref="J3" pin="2"/>
+    </net>
+    <net code="22" name="Net-(J3-Pad4)">
+      <node ref="U1" pin="17"/>
+      <node ref="J3" pin="4"/>
+    </net>
+    <net code="23" name="Net-(J3-Pad6)">
+      <node ref="U1" pin="19"/>
+      <node ref="J3" pin="6"/>
+    </net>
+    <net code="24" name="Net-(C2-Pad1)">
+      <node ref="J2" pin="1"/>
+      <node ref="F1" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="25" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="IC1" pin="5"/>
+    </net>
+    <net code="26" name="Net-(J3-Pad8)">
+      <node ref="J3" pin="8"/>
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="27" name="Net-(J3-Pad7)">
+      <node ref="J3" pin="7"/>
+      <node ref="U1" pin="50"/>
+    </net>
+    <net code="28" name="Net-(J3-Pad9)">
+      <node ref="J3" pin="9"/>
+      <node ref="U1" pin="44"/>
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="29" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1"/>
+      <node ref="R14" pin="2"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="30" name="Net-(LED1-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="LED1" pin="2"/>
+    </net>
+    <net code="31" name="Net-(C12-Pad1)">
+      <node ref="FL4" pin="2"/>
+      <node ref="U1" pin="24"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="U1" pin="38"/>
+      <node ref="U1" pin="6"/>
+      <node ref="C15" pin="1"/>
+      <node ref="C17" pin="1"/>
+    </net>
+    <net code="32" name="Net-(LED2-Pad2)">
+      <node ref="LED2" pin="2"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="33" name="Net-(LED4-Pad2)">
+      <node ref="R6" pin="2"/>
+      <node ref="LED4" pin="2"/>
+    </net>
+    <net code="34" name="Net-(C36-Pad2)">
+      <node ref="R26" pin="2"/>
+      <node ref="R28" pin="2"/>
+      <node ref="C36" pin="2"/>
+    </net>
+    <net code="35" name="Net-(C34-Pad2)">
+      <node ref="T2" pin="7"/>
+      <node ref="R24" pin="2"/>
+      <node ref="C34" pin="2"/>
+      <node ref="T2" pin="2"/>
+    </net>
+    <net code="36" name="Net-(T2-Pad4)">
+      <node ref="T2" pin="4"/>
+    </net>
+    <net code="37" name="Net-(T2-Pad5)">
+      <node ref="T2" pin="5"/>
+    </net>
+    <net code="38" name="/J2R-">
+      <node ref="T2" pin="9"/>
+      <node ref="J5" pin="3"/>
+    </net>
+    <net code="39" name="Net-(T2-Pad13)">
+      <node ref="T2" pin="13"/>
+    </net>
+    <net code="40" name="Net-(T2-Pad12)">
+      <node ref="T2" pin="12"/>
+    </net>
+    <net code="41" name="/J2T+">
+      <node ref="J5" pin="1"/>
+      <node ref="T2" pin="16"/>
+    </net>
+    <net code="42" name="/T2T+">
+      <node ref="U1" pin="62"/>
+      <node ref="R16" pin="2"/>
+      <node ref="T2" pin="1"/>
+    </net>
+    <net code="43" name="/T2T-">
+      <node ref="U1" pin="63"/>
+      <node ref="T2" pin="3"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="44" name="Net-(C21-Pad1)">
+      <node ref="U1" pin="64"/>
+      <node ref="C28" pin="1"/>
+      <node ref="R20" pin="1"/>
+      <node ref="R22" pin="1"/>
+      <node ref="R18" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="R24" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="FL3" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="C30" pin="1"/>
+      <node ref="C32" pin="1"/>
+    </net>
+    <net code="45" name="/T2R+">
+      <node ref="T2" pin="6"/>
+      <node ref="R20" pin="2"/>
+      <node ref="U1" pin="60"/>
+    </net>
+    <net code="46" name="Net-(R26-Pad1)">
+      <node ref="T2" pin="10"/>
+      <node ref="R26" pin="1"/>
+    </net>
+    <net code="47" name="/J2T-">
+      <node ref="T2" pin="14"/>
+      <node ref="J5" pin="4"/>
+    </net>
+    <net code="48" name="Net-(R28-Pad1)">
+      <node ref="R28" pin="1"/>
+      <node ref="T2" pin="15"/>
+    </net>
+    <net code="49" name="/T2R-">
+      <node ref="T2" pin="8"/>
+      <node ref="U1" pin="61"/>
+      <node ref="R22" pin="2"/>
+    </net>
+    <net code="50" name="Net-(C35-Pad2)">
+      <node ref="R27" pin="2"/>
+      <node ref="C35" pin="2"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="51" name="/T1T+">
+      <node ref="T1" pin="1"/>
+      <node ref="U1" pin="53"/>
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="52" name="Net-(C33-Pad2)">
+      <node ref="T1" pin="7"/>
+      <node ref="T1" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="C33" pin="2"/>
+    </net>
+    <net code="53" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1"/>
+      <node ref="T1" pin="10"/>
+    </net>
+    <net code="54" name="Net-(T1-Pad12)">
+      <node ref="T1" pin="12"/>
+    </net>
+    <net code="55" name="Net-(T1-Pad13)">
+      <node ref="T1" pin="13"/>
+    </net>
+    <net code="56" name="/J1T-">
+      <node ref="T1" pin="14"/>
+      <node ref="J4" pin="4"/>
+    </net>
+    <net code="57" name="Net-(R27-Pad1)">
+      <node ref="R27" pin="1"/>
+      <node ref="T1" pin="15"/>
+    </net>
+    <net code="58" name="Net-(T1-Pad4)">
+      <node ref="T1" pin="4"/>
+    </net>
+    <net code="59" name="Net-(T1-Pad5)">
+      <node ref="T1" pin="5"/>
+    </net>
+    <net code="60" name="/J1R-">
+      <node ref="J4" pin="3"/>
+      <node ref="T1" pin="9"/>
+    </net>
+    <net code="61" name="/T1T-">
+      <node ref="U1" pin="52"/>
+      <node ref="R17" pin="2"/>
+      <node ref="T1" pin="3"/>
+    </net>
+    <net code="62" name="Net-(C19-Pad1)">
+      <node ref="U1" pin="51"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C31" pin="1"/>
+      <node ref="C29" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C25" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R21" pin="1"/>
+      <node ref="R17" pin="1"/>
+      <node ref="R15" pin="1"/>
+      <node ref="R23" pin="1"/>
+      <node ref="FL1" pin="1"/>
+    </net>
+    <net code="63" name="/T1R+">
+      <node ref="R19" pin="2"/>
+      <node ref="T1" pin="6"/>
+      <node ref="U1" pin="55"/>
+    </net>
+    <net code="64" name="/T1R-">
+      <node ref="T1" pin="8"/>
+      <node ref="U1" pin="54"/>
+      <node ref="R21" pin="2"/>
+    </net>
+    <net code="65" name="Net-(C1-Pad1)">
+      <node ref="IC1" pin="6"/>
+      <node ref="L1" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="66" name="Net-(C1-Pad2)">
+      <node ref="IC1" pin="1"/>
+      <node ref="C1" pin="2"/>
+    </net>
+    <net code="67" name="Net-(IC1-Pad3)">
+      <node ref="R7" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="68" name="Net-(R13-Pad1)">
+      <node ref="U1" pin="8"/>
+      <node ref="U1" pin="9"/>
+      <node ref="U1" pin="10"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="69" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1"/>
+      <node ref="U1" pin="57"/>
+    </net>
+    <net code="70" name="Net-(U1-Pad39)">
+      <node ref="U1" pin="39"/>
+    </net>
+    <net code="71" name="Net-(U1-Pad40)">
+      <node ref="U1" pin="40"/>
+    </net>
+    <net code="72" name="Net-(U1-Pad49)">
+      <node ref="U1" pin="49"/>
+    </net>
+    <net code="73" name="Net-(U1-Pad12)">
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="74" name="Net-(U1-Pad15)">
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="75" name="Net-(U1-Pad16)">
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="76" name="Net-(U1-Pad21)">
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="77" name="Net-(U1-Pad22)">
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="78" name="Net-(U1-Pad23)">
+      <node ref="U1" pin="23"/>
+    </net>
+    <net code="79" name="Net-(U1-Pad25)">
+      <node ref="U1" pin="25"/>
+    </net>
+    <net code="80" name="Net-(U1-Pad26)">
+      <node ref="U1" pin="26"/>
+    </net>
+    <net code="81" name="Net-(U1-Pad27)">
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="82" name="Net-(U1-Pad28)">
+      <node ref="U1" pin="28"/>
+    </net>
+    <net code="83" name="Net-(U1-Pad29)">
+      <node ref="U1" pin="29"/>
+    </net>
+    <net code="84" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="85" name="Net-(U1-Pad30)">
+      <node ref="U1" pin="30"/>
+    </net>
+    <net code="86" name="Net-(U1-Pad31)">
+      <node ref="U1" pin="31"/>
+    </net>
+    <net code="87" name="Net-(U1-Pad33)">
+      <node ref="U1" pin="33"/>
+    </net>
+    <net code="88" name="Net-(U1-Pad35)">
+      <node ref="U1" pin="35"/>
+    </net>
+    <net code="89" name="Net-(U1-Pad36)">
+      <node ref="U1" pin="36"/>
+    </net>
+  </nets>
+</export>
