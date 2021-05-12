@@ -5,6 +5,6 @@ Local gerber 3D viewer at https://www.zofzpcb.com/
 
 Four layer boards were manufactured at https://jlcpcb.com/ without smt service
 
-See it in action at
+See it in action at https://youtu.be/GT6kmJNQ8QA
 
 I am not affiliated with any company cited above
